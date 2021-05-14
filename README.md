@@ -15,7 +15,7 @@ The project folder contains three import files to add all bookmarks at once:
 2. `all-universities.html`
 
 
-[all-colleges-universities.html](../all-colleges-universities.html)
+[all-colleges-universities.html](/all-colleges-universities.html)
 
 
 
