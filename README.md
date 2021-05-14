@@ -11,13 +11,9 @@ This includes publicly funded, non-profit institutions.
 ## Organization
 
 The project folder contains three import files to add all bookmarks at once:
-1. `all-colleges.html`
-2. `all-universities.html`
-
-
-[all-colleges-universities.html](/all-colleges-universities.html)
-
-
+ 1. [all-colleges.html](/all-colleges.html)
+ 2. [all-universities.html](/all-universities.html)
+ 3. [all-colleges-universities.html](/all-colleges-universities.html)
 
 Each top-level folder (Province or Territory) will be populated with two sub-folders and a file:
 4. University
@@ -60,7 +56,7 @@ The file contains code that will look like the following:
     </DL><p>
 </DL><p>
 ```
-This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the information your browser needs to create new bookmarks, and contains instructions on the folder hierachy.
+This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the information your browser needs to create new bookmarks, and contains instructions on the folder hierachy. 
 
 ### Adding bookmarks to Chrome
 
