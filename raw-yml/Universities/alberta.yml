@@ -1,0 +1,17 @@
+---
+- folder: Alberta - University
+  bookmarks:
+    - name: Alberta University of the Arts
+      url: https://can59.dayforcehcm.com/CandidatePortal/en-US/auarts
+    - name: Athabasca University
+      url: https://www.athabascau.ca/careers/#managementacademicprofessionaladministrativeopportunities
+    - name: MacEwan University
+      url: https://www.macewan.ca/wcm/Administrative/HumanResources/Careers/index.htm
+    - name: Mount Royal University
+      url: https://mtroyalca.hua.hrsmart.com/hr/ats/JobSearch/index
+    - name: University of Alberta
+      url: https://www.careers.ualberta.ca/
+    - name: University of Calgary
+      url: https://careers.ucalgary.ca/
+    - name: University of Lethbridge
+      url: https://uleth.peopleadmin.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id=1&435=&query_organizational_tier_3_id=any&commit=Search

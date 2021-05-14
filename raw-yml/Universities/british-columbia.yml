@@ -1,0 +1,25 @@
+---
+- folder: British Columbia - University
+  bookmarks:
+    - name: Capilano University
+      url: https://www.capilanou.ca/about-capu/connect-with-capu/careers/
+    - name: Emily Carr University of Art and Design
+      url: https://ecuad.peopleadmin.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1205%5B%5D=1&435=&commit=Search
+    - name: Kwantlen Polytechnic University
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?org=JT63GS&cws=37
+    - name: Royal Roads University
+      url: https://royalroads.mua.hrdepartment.com/hr/ats/JobSearch/viewAll
+    - name: Simon Fraser University
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=SIMOFRAS
+    - name: Thompson Rivers University
+      url: https://tru.hua.hrsmart.com/hr/ats/JobSearch/search/eNpLtDK0qs60MjQwti62MjS0UkpUNKxxqDEHYhMl61pcMIhACMc,
+    - name: University of British Columbia
+      url: https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs
+    - name: University of Victoria
+      url: https://www.uvic.ca/hsd/cyc/people/home/Employment%20Opportunities/index.php
+    - name: University of the Fraser Valley
+      url: https://ufv.njoyn.com/CL3/xweb/Xweb.asp?tbtoken=YVBQShgXCG8uJS5ALiReZy4lLkAuJF4FQ1FRCFtJdWVEcCVYB0hZUSkNExBRL0oTW0AYdRZ9LiUuQC4kXgkbURNTTXQqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=56144
+    - name: University of Northern British Columbia
+      url: https://www2.unbc.ca/staff-postings
+    - name: Vancouver Island University
+      url: https://careers.viu.ca/vacancies.html#filter=p_web_site_id%3D100017%26p_published_to%3DWWW%26p_language%3DDEFAULT%26p_direct%3DY%26p_format%3DMOBILE%26p_include_exclude_from_list%3DN%26p_search%3D

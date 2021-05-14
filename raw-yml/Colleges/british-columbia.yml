@@ -1,0 +1,23 @@
+---
+- folder: British Columbia - Colleges
+  bookmarks:
+    - name: British Columbia Institute of Technology
+      url: https://careers.bcit.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1763%5B%5D=1&1763%5B%5D=2&commit=Search
+    - name: Coast Mountain College
+      url: https://www.coastmountaincollege.ca/about-cmtn/cmtn-careers/job-postings
+    - name: College of the Rockies
+      url: https://cotr.prevueaps.ca/jobs/
+    - name: Columbia College 
+      url: https://www.columbiacollege.ca/careers
+    - name: Douglas College
+      url: https://www.douglascollegecareers.ca/
+    - name: Langara College
+      url: https://langara.wd10.myworkdayjobs.com/External_Employment_Opportunities
+    - name: North Island College
+      url: https://careers.nic.bc.ca/
+    - name: Okanagan College
+      url: https://www.employmentopportunities.okanagan.bc.ca/postings/search
+    - name: Selkirk College
+      url: https://careers.selkirk.ca/vacancies.html#filter=p_web_site_id%3D100018%26p_published_to%3DWWW%26p_language%3DDEFAULT%26p_direct%3DY%26p_format%3DMOBILE%26p_include_exclude_from_list%3DN%26p_search%3D
+    - name: Vancouver Community College
+      url: https://careers.vcc.ca/
