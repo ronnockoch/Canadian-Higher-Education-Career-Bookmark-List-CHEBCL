@@ -10,15 +10,21 @@ This includes publicly funded, non-profit institutions.
 
 ## Organization
 
+The project folder contains three import files to add all bookmarks at once:
+1. `all-colleges.html`
+2. `all-universities.html`
+3. `[all-colleges-universities.html](all-colleges-universities.html)`
+
+
 Each top-level folder (Province or Territory) will be populated with two sub-folders and a file:
-1. University
-2. College
+4. University
+5. College
 
 The file will be something similar to `province-uni-college.html` and contains all the data for listed Higher Education insitutions in that Province or Territory.
 
 Within each folder, you will find a `README.md` and a `bookmark-list.html` file.
 
-The `README.md` will provide a linked list of the career pages in browser, whereas the `bookmark-list.html` file will allow you to import the files into your browser's bookmark manager for quicker access.
+The `README.md` will provide a linked list of the career pages in browser, whereas the `province-list.html` file will allow you to import the files into your browser's bookmark manager for quicker access.
 
 
 ## Adding Bookmarks
