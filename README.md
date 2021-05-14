@@ -13,7 +13,10 @@ This includes publicly funded, non-profit institutions.
 The project folder contains three import files to add all bookmarks at once:
 1. `all-colleges.html`
 2. `all-universities.html`
-3. `[all-colleges-universities.html](all-colleges-universities.html)`
+
+
+[all-colleges-universities.html](../all-colleges-universities.html)
+
 
 
 Each top-level folder (Province or Territory) will be populated with two sub-folders and a file:
