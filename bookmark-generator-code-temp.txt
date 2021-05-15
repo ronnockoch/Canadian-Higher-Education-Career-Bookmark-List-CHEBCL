@@ -1,0 +1,1 @@
+.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\alberta.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Alberta\College\alberta.html'
