@@ -1,0 +1,7 @@
+---
+- folder: FOLDER_NAME
+  bookmarks:
+    - name: BOOKMARK_1_NAME
+      url: BOOKMARK_1_URL
+    - name: BOOKMARK_2_NAME
+      url: BOOKMARK_2_URL
