@@ -41,22 +41,21 @@ The file contains code that will look like the following:
 <H1>Bookmarks</H1>
 
 <DL><p>
-<DT><H3>test bookmarks</H3>
+<DT><H3>Nova Scotia - University</H3>
     <DL><p>
-    <DT><A HREF="https://www.google.com">Google</A>
-    <DT><H3>Wikipedia</H3>
-        <DL><p>
-        <DT><A HREF="https://en.wikipedia.org/" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7klEQVQ4ja2TUZFDIQxFQUUkREQURAoSMIADLGAgNjCAgcjg7scW5tFuu9PtZoaPADkhNySEm8058c4KV3s3+ID8NXhDPgb03iEiCCGg1oo5J1R1++4OEYGIwN3RWgMRQVUxxvh+gbsjxggzw/KZ+QC6+84qIo8lqOpxsDKZGUopx/4CH4DeO0II6L3vQ2YGMx81q+pzEVX1uJBSAhHhmiTn/BxgZogxYoyxgUSE1toGXrX4sY3MjJwzzAy1VpRSwMxwd6SUfv8HrTXEGHcpq0Micujz8iMR0aF0SulBvJeApcF13df+L/Pw0USuuC9zNVPvSNmuzAAAAABJRU5ErkJggg==">Wikipedia English Home</A>
-        <HR>
-        <DT><A HREF="https://en.wikipedia.org/wiki/Bhutan" TAGS="country,asia">Wiki Buthan</A>
-        <DT><A HREF="https://en.wikipedia.org/wiki/Nepal">Nepal</A>
-        <DD>A country in the Himalayas
-        </DL><p>
-    <DT><A HREF="https://www.youtube.com">Youtube</A>
+    <DT><A HREF="https://hr.acadiau.ca/employment/career-opportunities/administrativesupport.html">Acadia University</A>
+    <DT><A HREF="https://www.cbu.ca/faculty-staff/human-resources/employment-opportunities/">Cape Breton University</A>
+    <DT><A HREF="https://dal.peopleadmin.ca/postings/search?query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&query_position_type_id%5B%5D=6&query_position_type_id%5B%5D=7&435=&commit=Search">Dalhousie University</A>
+    <DT><A HREF="https://www.careerbeacon.com/en/employer-showcase/company-tnsbv8">Mount Saint Vincent University</A>
+    <DT><A HREF="https://nscad.ca/careers/">Nova Scotia College of Art and Design University</A>
+    <DT><A HREF="https://www2.mystfx.ca/hr/employment-opportunities">Saint Francis Xavier University</A>
+    <DT><A HREF="https://www.smu.ca/about/staff-employment-opportunities.html">Saint Mary's University</A>
+    <DT><A HREF="https://www.usainteanne.ca/offres-d-emploi/">Université Sainte-Anne</A>
+    <DT><A HREF="https://ukings.ca/campus-community/employment/">University of King's College</A>
     </DL><p>
 </DL><p>
 ```
-This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the information your browser needs to create new bookmarks, and contains instructions on the folder hierachy. 
+This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the information your browser needs to create new bookmarks, and contains instructions on the folder hierachy.
 
 ### Adding bookmarks to Chrome
 
