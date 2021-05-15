@@ -1,0 +1,31 @@
+---
+- folder: Alberta - Colleges
+  bookmarks:
+    - name: Ambrose University College
+      url: https://ambrose.edu/about/work-ambrose
+    - name: Bow Valley College
+      url: https://careersbowvalleycollege.hua.hrsmart.com/hr/ats/JobSearch/viewAll
+    - name: Burman University
+      url: https://www.burmanu.ca/humanresources/jobopportunities
+    - name: Grande Prairie Regional College
+      url: https://www.gprc.ab.ca/careers/
+    - name: Keyano College
+      url: https://careers.keyano.ca/
+    - name: The King's University College
+      url: https://www.kingsu.ca/about-us/careers
+    - name: Lakeland College
+      url: https://hr.lakelandcollege.ca/psc/recruit/EMPLOYEE/LCEXTAPP/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=2&
+    - name: Lethbridge College
+      url: https://lethbridgecollege.peopleadmin.ca/postings/search
+    - name: Medicine Hat College
+      url: https://www.mhc.ab.ca/AboutMHC/Employment/JobsatMHC
+    - name: NorQuest College
+      url: https://careers-norquest.icims.com/jobs/search?hashed=-435774147&mobile=false&width=735&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
+    - name: Northern Alberta Institute of Technology
+      url: https://nait.startdate.ca/#/
+    - name: Olds College
+      url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5ae275e0-a56a-464a-8c46-0dcada6daf67&selectedMenuKey=CurrentOpenings
+    - name: Red Deer College
+      url: https://employment.rdc.ab.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&commit=Search
+    - name: Southern Alberta Institute of Technology
+      url: https://sait.csod.com/ats/careersite/search.aspx?site=1&c=sait
