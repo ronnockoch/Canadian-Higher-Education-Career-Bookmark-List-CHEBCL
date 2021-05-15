@@ -35,6 +35,11 @@ Write-Host "College Data updated"
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\ontario.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Ontario\College\bookmark-list.html'							
 Write-Host "College Data ended"
 
+# Update 'Other-Insitutions'
+ <#
+ OUAC, OURA, COU, OCAS
+ #>
 
 
+#End
 Write-Host "All Data Updated"
