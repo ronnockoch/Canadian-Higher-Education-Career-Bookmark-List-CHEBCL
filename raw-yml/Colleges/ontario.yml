@@ -1,5 +1,49 @@
 ---
 - folder: Ontario - Colleges
   bookmarks:
-    - name: Ontario Blank
-      url: www.blank.com
+    - name: Algonquin College
+      url: https://algonquincollege.wd3.myworkdayjobs.com/CareerOpportunities
+    - name: Cambrian College
+      url: https://gjobs.neogov.ca/careers/cambriancollege
+    - name: Canadore College
+      url: https://www.canadorecollege.ca/about/careers
+    - name: Centennial College
+      url: https://centennial.njoyn.com/cl3/xweb/Xweb.asp?tbtoken=Y1xbRBkXCBIuJS5ALiReEQZ5NychCCdIBhVEcFAvAUhZV1oFE2dZKEcTWDEfcmV1dwkbURNaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=56827
+    - name: Conestoga College
+      url: https://employment.conestogac.on.ca/
+    - name: Confederation College
+      url: https://confederationc.hua.hrsmart.com/hrsmart/ats/JobSearch/viewAll
+    - name: Durham College
+      url: https://durhamcollege.ca/about/employment-opportunities/careers
+    - name: Fanshawe College
+      url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=2&commit=Search
+    - name: Fanshawe College 2
+      url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=1&commit=Search
+    - name: Fleming College
+      url: https://flemingcollege.ca/about-fleming/careers-at-fleming
+    - name: George Brown College
+      url: https://georgebrown.csod.com/ats/careersite/search.aspx?site=1&c=georgebrown
+    - name: Georgian College
+      url: https://aa165.taleo.net/careersection/gc_external_career_site/jobsearch.ftl?lang=en&portal=8216760849
+    - name: Humber College
+      url: https://humber.taleo.net/careersection/hbr_ex/jobsearch.ftl?lang=en
+    - name: Lambton College
+      url: https://clients.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=ZlhfQBhbDVB2YXxyQiYiF09NBBJRaVVYelNMISsFCXleWkEZUUISBmtwdkcYGhJQSnVlF3U%3D&chk=ZVpaShM%3D&CLID=72351&page=joblisting&lang=1
+    - name: Loyalist College
+      url: https://www.loyalistcollege.com/employment/work-at-loyalist-2/
+    - name: Mohawk College
+      url: https://talent-mohawkcollege.csod.com/ats/careersite/search.aspx?site=2&c=talent-mohawkcollege
+    - name: Niagara College
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=38&org=NIAGARACOLLEGE
+    - name: Northern College
+      url: http://www.northernc.on.ca/careers/
+    - name: St. Clair College
+      url: https://www.stclaircollege.ca/careers/current-opportunities
+    - name: St. Lawrence College
+      url: https://www.stlawrencecollege.ca/about/careers-at-slc/current-job-opportunities
+    - name: Sault College
+      url: https://www.saultcollege.ca/employment/careers-sault-college
+    - name: Seneca College
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=42&org=SENECOLL4
+    - name: Sheridan College
+      url: https://sheridan.njoyn.com/cl3/xweb/xweb.asp?CLID=55117&page=joblisting&lang=1

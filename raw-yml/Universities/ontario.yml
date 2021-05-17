@@ -1,0 +1,45 @@
+---
+- folder: Ontario - Universities
+  bookmarks:
+    - name: Algoma University
+      url: https://www.algomau.ca/careers/
+    - name: Brock University
+      url: https://brocku.wd3.myworkdayjobs.com/brocku_careers/
+    - name: Carelton Unviversity
+      url: https://carleton.njoyn.com/CL2/xweb/xweb.asp?CLID=53443&page=joblisting&lang=1
+    - name: Lakehead Unviversity
+      url: https://www.lakeheadu.ca/faculty-and-staff/departments/services/hr/employment-opportunities/administrative-staff
+    - name: Laurentian Unviversity
+      url: https://laurentian.ca/careers/administrative-vacancies
+    - name: McMaster Unviversity
+      url: https://careers.mcmaster.ca/psp/prepprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1001&customTab=MCM_STAFF_POS&IgnoreParamTempl=customTab
+    - name: Nipissing Unviversity
+      url: https://www.nipissingu.ca/employment-postings
+    - name: Ontario College of Art and Design
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/searchResults?org=OCADU&cws=37
+    - name: Queens Unviversity 
+      url: https://queensu.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=Z1pQShMXCBkuJS5ALiReE311RSRWCFs4dRJEcFVccUhYIS0EExUqUEQdUTJpdGdycwkbUxFaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=74827
+    - name: Royal Millitary College
+      url: https://www.rmc-cmr.ca/en/faculty-services/employment-opportunities-royal-military-college-canada
+    - name: Ryerson Unviversity
+      url: https://www.ryerson.ca/careers/search-available-career-opportunities/
+    - name: Trent Unviversity
+      url: https://www.trentu.ca/humanresources/employment-opportunities/non-academic-positions
+    - name: University of Guelph
+      url: https://www.uoguelph.ca/hr/careers-guelph/current-opportunities
+    - name: Ontario Tech University
+      url: https://hr.ontariotechu.ca/working_at_ot/careers/career-opportunities-postings/external-career-opportunities.php
+    - name: University of Ottawa
+      url: https://uottawa.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=Z1hdQB8XCGhwanxxQiBVCCM%2FA2REcFUtBkhYUioJE2BdW0ETKDUad2p8cwkbVhJSQXEqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=27081&lang=1
+    - name: University of Toronto
+      url: https://jobs.utoronto.ca/go/Staff-Opportunities/2607517/
+    - name: Unviersity of Waterloo
+      url: https://careers-uwaterloo.icims.com/jobs/search?ss=1&hashed=-435656898
+    - name: Western University
+      url: https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=1
+    - name: University of Windsor
+      url: https://www.uwindsor.ca/humanresources/employment-opportunities
+    - name: Wilfred Laurier
+      url: https://careers.wlu.ca/go/Staff-and-Management-Positions/505147/
+    - name: York University
+      url: https://jobs-ca.technomedia.com/yorkuniversity/
