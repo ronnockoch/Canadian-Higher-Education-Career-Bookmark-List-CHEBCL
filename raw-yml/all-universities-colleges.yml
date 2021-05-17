@@ -1,0 +1,331 @@
+---
+- folder: All Universities and Colleges
+  bookmarks:
+    - folder: All Colleges
+      bookmarks:
+      - folder: Alberta - University
+        bookmarks:
+          - name: Alberta University of the Arts
+            url: https://can59.dayforcehcm.com/CandidatePortal/en-US/auarts
+          - name: Athabasca University
+            url: https://www.athabascau.ca/careers/#managementacademicprofessionaladministrativeopportunities
+          - name: MacEwan University
+            url: https://www.macewan.ca/wcm/Administrative/HumanResources/Careers/index.htm
+          - name: Mount Royal University
+            url: https://mtroyalca.hua.hrsmart.com/hr/ats/JobSearch/index
+          - name: University of Alberta
+            url: https://www.careers.ualberta.ca/
+          - name: University of Calgary
+            url: https://careers.ucalgary.ca/
+          - name: University of Lethbridge
+            url: https://uleth.peopleadmin.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id=1&435=&query_organizational_tier_3_id=any&commit=Search
+      - folder: British Columbia - University
+        bookmarks:
+          - name: Capilano University
+            url: https://www.capilanou.ca/about-capu/connect-with-capu/careers/
+          - name: Emily Carr University of Art and Design
+            url: https://ecuad.peopleadmin.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1205%5B%5D=1&435=&commit=Search
+          - name: Kwantlen Polytechnic University
+            url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?org=JT63GS&cws=37
+          - name: Royal Roads University
+            url: https://royalroads.mua.hrdepartment.com/hr/ats/JobSearch/viewAll
+          - name: Simon Fraser University
+            url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=SIMOFRAS
+          - name: Thompson Rivers University
+            url: https://tru.hua.hrsmart.com/hr/ats/JobSearch/search/eNpLtDK0qs60MjQwti62MjS0UkpUNKxxqDEHYhMl61pcMIhACMc,
+          - name: University of British Columbia
+            url: https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs
+          - name: University of Victoria
+            url: https://www.uvic.ca/hsd/cyc/people/home/Employment%20Opportunities/index.php
+          - name: University of the Fraser Valley
+            url: https://ufv.njoyn.com/CL3/xweb/Xweb.asp?tbtoken=YVBQShgXCG8uJS5ALiReZy4lLkAuJF4FQ1FRCFtJdWVEcCVYB0hZUSkNExBRL0oTW0AYdRZ9LiUuQC4kXgkbURNTTXQqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=56144
+          - name: University of Northern British Columbia
+            url: https://www2.unbc.ca/staff-postings
+          - name: Vancouver Island University
+            url: https://careers.viu.ca/vacancies.html#filter=p_web_site_id%3D100017%26p_published_to%3DWWW%26p_language%3DDEFAULT%26p_direct%3DY%26p_format%3DMOBILE%26p_include_exclude_from_list%3DN%26p_search%3D
+      - folder: Manitoba - University
+        bookmarks:
+          - name: Brandon University
+            url: https://www.brandonu.ca/jobs/
+          - name: University College of the North
+            url: https://www.ucn.ca/HR/Pages/UCN-Careers.aspx
+          - name: University of Manitoba
+            url: https://viprecprod.ad.umanitoba.ca/default.aspx
+          - name: University of Winnipeg
+            url: https://www.uwinnipeg.ca/hr/employment.html
+      - folder: New Brunswick - University
+        bookmarks:
+          - name: Mount Allison University
+            url: https://www.mta.ca/Community/Administrative_departments/Human_Resources/Employment_opportunities/Non-academic/Non-academic/
+          - name: St. Thomas University
+            url: https://www.stu.ca/employment/
+          - name: University of New Brunswick
+            url: https://www.unb.ca/hr/careers/support-staff.php
+          - name: Université de Moncton
+            url: https://www.umoncton.ca/emploi/
+      - folder: Newfoundland and Labrador - University
+        bookmarks:
+          - name: Memorial University of Newfoundland
+            url: https://www.mun.ca/hr/careers/external.php
+      - folder: Nova Scotia - University
+        bookmarks:
+          - name: Acadia University
+            url: https://hr.acadiau.ca/employment/career-opportunities/administrativesupport.html
+          - name: Cape Breton University
+            url: https://www.cbu.ca/faculty-staff/human-resources/employment-opportunities/
+          - name: Dalhousie University
+            url: https://dal.peopleadmin.ca/postings/search?query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&query_position_type_id%5B%5D=6&query_position_type_id%5B%5D=7&435=&commit=Search
+          - name: Mount Saint Vincent University
+            url: https://www.careerbeacon.com/en/employer-showcase/company-tnsbv8
+          - name: Nova Scotia College of Art and Design University
+            url: https://nscad.ca/careers/
+          - name: Saint Francis Xavier University
+            url: https://www2.mystfx.ca/hr/employment-opportunities
+          - name: Saint Mary's University
+            url: https://www.smu.ca/about/staff-employment-opportunities.html
+          - name: Université Sainte-Anne
+            url: https://www.usainteanne.ca/offres-d-emploi/
+          - name: University of King's College
+            url: https://ukings.ca/campus-community/employment/
+      - folder: Ontario - Universities
+        bookmarks:
+          - name: Algoma University
+            url: https://www.algomau.ca/careers/
+          - name: Brock University
+            url: https://brocku.wd3.myworkdayjobs.com/brocku_careers/
+          - name: Carelton Unviversity
+            url: https://carleton.njoyn.com/CL2/xweb/xweb.asp?CLID=53443&page=joblisting&lang=1
+          - name: Lakehead Unviversity
+            url: https://www.lakeheadu.ca/faculty-and-staff/departments/services/hr/employment-opportunities/administrative-staff
+          - name: Laurentian Unviversity
+            url: https://laurentian.ca/careers/administrative-vacancies
+          - name: McMaster Unviversity
+            url: https://careers.mcmaster.ca/psp/prepprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1001&customTab=MCM_STAFF_POS&IgnoreParamTempl=customTab
+          - name: Nipissing Unviversity
+            url: https://www.nipissingu.ca/employment-postings
+          - name: Ontario College of Art and Design
+            url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/searchResults?org=OCADU&cws=37
+          - name: Queens Unviversity
+            url: https://queensu.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=Z1pQShMXCBkuJS5ALiReE311RSRWCFs4dRJEcFVccUhYIS0EExUqUEQdUTJpdGdycwkbUxFaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=74827
+          - name: Royal Millitary College
+            url: https://www.rmc-cmr.ca/en/faculty-services/employment-opportunities-royal-military-college-canada
+          - name: Ryerson Unviversity
+            url: https://www.ryerson.ca/careers/search-available-career-opportunities/
+          - name: Trent Unviversity
+            url: https://www.trentu.ca/humanresources/employment-opportunities/non-academic-positions
+          - name: University of Guelph
+            url: https://www.uoguelph.ca/hr/careers-guelph/current-opportunities
+          - name: Ontario Tech University
+            url: https://hr.ontariotechu.ca/working_at_ot/careers/career-opportunities-postings/external-career-opportunities.php
+          - name: University of Ottawa
+            url: https://uottawa.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=Z1hdQB8XCGhwanxxQiBVCCM%2FA2REcFUtBkhYUioJE2BdW0ETKDUad2p8cwkbVhJSQXEqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=27081&lang=1
+          - name: University of Toronto
+            url: https://jobs.utoronto.ca/go/Staff-Opportunities/2607517/
+          - name: Unviersity of Waterloo
+            url: https://careers-uwaterloo.icims.com/jobs/search?ss=1&hashed=-435656898
+          - name: Western University
+            url: https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=1
+          - name: University of Windsor
+            url: https://www.uwindsor.ca/humanresources/employment-opportunities
+          - name: Wilfred Laurier
+            url: https://careers.wlu.ca/go/Staff-and-Management-Positions/505147/
+          - name: York University
+            url: https://jobs-ca.technomedia.com/yorkuniversity/
+      - folder: Prince Edward Islan - University
+        bookmarks:
+          - name: University of Prince Edward Island
+            url: https://www.upei.ca/hr/competitions?field_position_type_value=staff
+      - folder: Quebec - University
+        bookmarks:
+          - name: Bishop's University
+            url: https://working.ubishops.ca/career-opportunities/
+          - name: Concordia University
+            url: https://www.concordia.ca/hr/jobs/openings/staff-positions.html
+          - name: École de technologie supérieure
+            url: https://www.etsmtl.ca/ets/carrieres-ets
+          - name: École nationale d'administration publique
+            url: https://enap.ca/enap/147/Emplois-a-l-ENAP.enap
+          - name: Institut national de la recherche scientifique
+            url: https://inrs.ca/en/jobs/
+          - name: McGill University
+            url: https://mcgill.wd3.myworkdayjobs.com/mcgill_careers
+          - name: Université de Montréal
+            url: https://www.umontreal.ca/carrieres/
+          - name: Université de Sherbrooke
+            url: https://www.usherbrooke.ca/emplois/offres?tx_udesrechercheemplois_list[sort]=DATEDEBUTAFFICHAGE%20desc
+          - name: Université du Québec
+            url: https://www.uquebec.ca/reseau/fr/reseau-de-luq/emplois
+          - name: Université Laval
+            url: https://www.rh.ulaval.ca/emplois-personnel-professionnel
+      - folder: Saskatchewan - University
+        bookmarks:
+          - name: University of Regina
+            url: https://urcareers.uregina.ca/postings/search
+          - name: University of Saskatchewan
+            url: https://usask.csod.com/ux/ats/careersite/14/home?c=usask
+      - folder: Yukon - University
+        bookmarks:
+          - name: Yukon University
+            url: https://www.yukonu.ca/about-us/employment/current-opportunities
+    - folder: All Colleges
+      bookmarks:
+      - folder: Alberta - Colleges
+        bookmarks:
+          - name: Ambrose University College
+            url: https://ambrose.edu/about/work-ambrose
+          - name: Bow Valley College
+            url: https://careersbowvalleycollege.hua.hrsmart.com/hr/ats/JobSearch/viewAll
+          - name: Burman University
+            url: https://www.burmanu.ca/humanresources/jobopportunities
+          - name: Grande Prairie Regional College
+            url: https://www.gprc.ab.ca/careers/
+          - name: Keyano College
+            url: https://careers.keyano.ca/
+          - name: The King's University College
+            url: https://www.kingsu.ca/about-us/careers
+          - name: Lakeland College
+            url: https://hr.lakelandcollege.ca/psc/recruit/EMPLOYEE/LCEXTAPP/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=2&
+          - name: Lethbridge College
+            url: https://lethbridgecollege.peopleadmin.ca/postings/search
+          - name: Medicine Hat College
+            url: https://www.mhc.ab.ca/AboutMHC/Employment/JobsatMHC
+          - name: NorQuest College
+            url: https://careers-norquest.icims.com/jobs/search?hashed=-435774147&mobile=false&width=735&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
+          - name: Northern Alberta Institute of Technology
+            url: https://nait.startdate.ca/#/
+          - name: Olds College
+            url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5ae275e0-a56a-464a-8c46-0dcada6daf67&selectedMenuKey=CurrentOpenings
+          - name: Red Deer College
+            url: https://employment.rdc.ab.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&commit=Search
+          - name: Southern Alberta Institute of Technology
+            url: https://sait.csod.com/ats/careersite/search.aspx?site=1&c=sait
+      - folder: British Columbia - Colleges
+        bookmarks:
+          - name: British Columbia Institute of Technology
+            url: https://careers.bcit.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1763%5B%5D=1&1763%5B%5D=2&commit=Search
+          - name: Coast Mountain College
+            url: https://www.coastmountaincollege.ca/about-cmtn/cmtn-careers/job-postings
+          - name: College of the Rockies
+            url: https://cotr.prevueaps.ca/jobs/
+          - name: Columbia College
+            url: https://www.columbiacollege.ca/careers
+          - name: Douglas College
+            url: https://www.douglascollegecareers.ca/
+          - name: Langara College
+            url: https://langara.wd10.myworkdayjobs.com/External_Employment_Opportunities
+          - name: North Island College
+            url: https://careers.nic.bc.ca/
+          - name: Okanagan College
+            url: https://www.employmentopportunities.okanagan.bc.ca/postings/search
+          - name: Selkirk College
+            url: https://careers.selkirk.ca/vacancies.html#filter=p_web_site_id%3D100018%26p_published_to%3DWWW%26p_language%3DDEFAULT%26p_direct%3DY%26p_format%3DMOBILE%26p_include_exclude_from_list%3DN%26p_search%3D
+          - name: Vancouver Community College
+            url: https://careers.vcc.ca/
+      - folder: Manitoba - Colleges
+        bookmarks:
+          - name: Assiniboine Community College
+            url: https://assiniboine.net/community/working-assiniboine/careers-assiniboine
+          - name: Red River College
+            url: https://www.rrc.ca/hr/work/employment-opportunities/
+          - name: Robertson College
+            url: https://www.robertsoncollege.com/jobs-at-robertson/
+          - name: University College of the North
+            url: https://www.ucn.ca/HR/Pages/UCN-Careers.aspx
+          - name: Manitoba Institute of Trades and Technology
+            url: https://www.northstarats.com/MITT
+      - folder: New Brunswick - Colleges
+        bookmarks:
+          - name: Collège communautaire du Nouveau-Brunswick
+            url: https://ccnb.ca/le-ccnb/offres-demploi.aspx
+          - name: New Brunswick Community College
+            url: https://jobs.careerbeacon.com/employer-profile/nbcc
+      - folder: Newfoundland and Labrador - Colleges
+        bookmarks:
+          - name: College of the North Atlantic
+            url: https://ps-web3.cna.nl.ca/psc/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=4&
+      - folder: Northwest Territories - Colleges
+        bookmarks:
+          - name: Aurora College
+            url: https://www.gov.nt.ca/careers/en/search/job/department/aurora-college-57
+          - name: Collège nordique francophone
+            url: https://college-nordique.com/contact/
+      - folder: Nova Scotia - Colleges
+        bookmarks:
+          - name: Nova Scotia Community College
+            url: https://www.nscc.ca/about_nscc/jobs_at_nscc/job-postings/index.asp
+      - folder: Nunavut - Colleges
+        bookmarks:
+          - name: Nunavut Arctic College
+            url: https://www.gov.nu.ca/public-jobs?og_group_ref_target_id%5B%5D=4531
+      - folder: Ontario - Colleges
+        bookmarks:
+          - name: Algonquin College
+            url: https://algonquincollege.wd3.myworkdayjobs.com/CareerOpportunities
+          - name: Cambrian College
+            url: https://gjobs.neogov.ca/careers/cambriancollege
+          - name: Canadore College
+            url: https://www.canadorecollege.ca/about/careers
+          - name: Centennial College
+            url: https://centennial.njoyn.com/cl3/xweb/Xweb.asp?tbtoken=Y1xbRBkXCBIuJS5ALiReEQZ5NychCCdIBhVEcFAvAUhZV1oFE2dZKEcTWDEfcmV1dwkbURNaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=56827
+          - name: Conestoga College
+            url: https://employment.conestogac.on.ca/
+          - name: Confederation College
+            url: https://confederationc.hua.hrsmart.com/hrsmart/ats/JobSearch/viewAll
+          - name: Durham College
+            url: https://durhamcollege.ca/about/employment-opportunities/careers
+          - name: Fanshawe College
+            url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=2&commit=Search
+          - name: Fanshawe College 2
+            url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=1&commit=Search
+          - name: Fleming College
+            url: https://flemingcollege.ca/about-fleming/careers-at-fleming
+          - name: George Brown College
+            url: https://georgebrown.csod.com/ats/careersite/search.aspx?site=1&c=georgebrown
+          - name: Georgian College
+            url: https://aa165.taleo.net/careersection/gc_external_career_site/jobsearch.ftl?lang=en&portal=8216760849
+          - name: Humber College
+            url: https://humber.taleo.net/careersection/hbr_ex/jobsearch.ftl?lang=en
+          - name: Lambton College
+            url: https://clients.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=ZlhfQBhbDVB2YXxyQiYiF09NBBJRaVVYelNMISsFCXleWkEZUUISBmtwdkcYGhJQSnVlF3U%3D&chk=ZVpaShM%3D&CLID=72351&page=joblisting&lang=1
+          - name: Loyalist College
+            url: https://www.loyalistcollege.com/employment/work-at-loyalist-2/
+          - name: Mohawk College
+            url: https://talent-mohawkcollege.csod.com/ats/careersite/search.aspx?site=2&c=talent-mohawkcollege
+          - name: Niagara College
+            url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=38&org=NIAGARACOLLEGE
+          - name: Northern College
+            url: http://www.northernc.on.ca/careers/
+          - name: St. Clair College
+            url: https://www.stclaircollege.ca/careers/current-opportunities
+          - name: St. Lawrence College
+            url: https://www.stlawrencecollege.ca/about/careers-at-slc/current-job-opportunities
+          - name: Sault College
+            url: https://www.saultcollege.ca/employment/careers-sault-college
+          - name: Seneca College
+            url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=42&org=SENECOLL4
+          - name: Sheridan College
+            url: https://sheridan.njoyn.com/cl3/xweb/xweb.asp?CLID=55117&page=joblisting&lang=1
+      - folder: Prince Edward Island - Colleges
+        bookmarks:
+          - name: Collège de l'Île
+            url: https://www.collegedelile.ca/fr/
+          - name: Holland College
+            url: https://hollandcollege.com/about/Careers.php
+      - folder: Saskatchewan - Colleges
+        bookmarks:
+          - name: Carlton Trail College
+            url: https://www.carltontrailcollege.com/work-for-us
+          - name: Cumberland College
+            url: https://www.cumberlandcollege.sk.ca/index.php?id=109
+          - name: Great Plains College
+            url: https://www.greatplainscollege.ca/work-us
+          - name: Lakeland College
+            url: https://hr.lakelandcollege.ca/psc/recruit/EMPLOYEE/LCEXTAPP/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=2
+          - name: North West College
+            url: https://www.northwestcollege.ca/careers/career_opportunities.html
+          - name: Saskatchewan Indian Institute of Technologies
+            url: https://siit.prevueaps.com/jobs/
+          - name: Saskatchewan Polytechnic
+            url: https://careers.saskpolytech.ca/postings/search
+          - name: Southeast College
+            url: https://www.southeastcollege.org/the-college/career-listing/
