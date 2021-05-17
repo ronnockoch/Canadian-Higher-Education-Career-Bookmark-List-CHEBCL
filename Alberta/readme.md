@@ -1,6 +1,4 @@
 Bookmarks
-
-Bookmarks
 =========
 
 ### Alberta - Colleges
@@ -32,3 +30,19 @@ Bookmarks
 [Red Deer College](https://employment.rdc.ab.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&commit=Search)
 
 [Southern Alberta Institute of Technology](https://sait.csod.com/ats/careersite/search.aspx?site=1&c=sait)
+
+### Alberta - University
+
+[Alberta University of the Arts](https://can59.dayforcehcm.com/CandidatePortal/en-US/auarts)
+
+[Athabasca University](https://www.athabascau.ca/careers/#managementacademicprofessionaladministrativeopportunities)
+
+[MacEwan University](https://www.macewan.ca/wcm/Administrative/HumanResources/Careers/index.htm)
+
+[Mount Royal University](https://mtroyalca.hua.hrsmart.com/hr/ats/JobSearch/index)
+
+[University of Alberta](https://www.careers.ualberta.ca/)
+
+[University of Calgary](https://careers.ucalgary.ca/)
+
+[University of Lethbridge](https://uleth.peopleadmin.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&query_position_type_id=1&435=&query_organizational_tier_3_id=any&commit=Search)
