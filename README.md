@@ -70,5 +70,6 @@ This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the i
 
 
 ## Credits
-Link to BookmarkGenerator Repo
-https://domchristie.github.io/turndown/
+1. [Link to BookmarkGenerator Repo](/)
+2. [Turndown](https://domchristie.github.io/turndown/)
+3.
