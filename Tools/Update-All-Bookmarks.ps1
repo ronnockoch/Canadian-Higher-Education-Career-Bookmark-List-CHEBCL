@@ -7,7 +7,7 @@ This script is used to update all bookmark-list.html files in one go. This will 
 
 cd C:\Users\ronno\Documents\GitHub\bookmark-generator\
 # Update Universities
-Write-Host "University Data started"
+Write-Host "University Data started."
 
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\alberta.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Alberta\University\bookmark-list.html'
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\british-columbia.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\British Columbia\University\bookmark-list.html'
@@ -23,8 +23,8 @@ Write-Host "University Data started"
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\saskatchewan.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Saskatchewan\University\bookmark-list.html'
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\University\bookmark-list.html'
 
-Write-Host "University Data ended"
-Write-Host "College Data updated"
+Write-Host "University Data ended."
+Write-Host "College Data started."
 
 #Update Colleges
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\alberta.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Alberta\College\bookmark-list.html'
@@ -41,15 +41,17 @@ Write-Host "College Data updated"
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\Saskatchewan.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Saskatchewan\College\bookmark-list.html'
 #.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\College\bookmark-list.html'
 
-Write-Host "College Data ended"
+Write-Host "College Data ended."
 
 # Update 'Other-Insitutions'
- <#
- OUAC, OURA, COU, OCAS
- #>
+ <# #>
+ Write-Host "Other Insitutions started."
+.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\other-organizations.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Other-Organizations\bookmark-list.html'
+Write-Host "Other Insitutions Data ended."
+
 
 
 #End
-Write-Host "All Data Updated"
+Write-Host "All Data Updated."
 
 Read-Host -Prompt "Press any key to continue"
