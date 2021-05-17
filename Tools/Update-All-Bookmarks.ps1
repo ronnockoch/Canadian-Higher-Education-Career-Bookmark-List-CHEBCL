@@ -25,6 +25,7 @@ Write-Host "University Data started." -ForegroundColor red
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\University\bookmark-list.html'
 
 Write-Host "University Data ended."  -ForegroundColor green
+Write-Host "------------------------------" -ForegroundColor white
 Write-Host "College Data started." -ForegroundColor red
 
 #Update Colleges
@@ -43,26 +44,31 @@ Write-Host "College Data started." -ForegroundColor red
 #.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\College\bookmark-list.html'
 
 Write-Host "College Data ended." -ForegroundColor green
-
+Write-Host "------------------------------" -ForegroundColor white
 # Update 'Other-Insitutions'
  <# #>
 Write-Host "Other Insitutions started." -ForegroundColor red
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\other-organizations.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Other-Organizations\bookmark-list.html'
 Write-Host "Other Insitutions Data ended." -ForegroundColor green
-
+Write-Host "------------------------------" -ForegroundColor white
 # Update `all-universities.html` List
 Write-Host "'all-universities.html' started." -ForegroundColor red
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\all-universities.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\all-universities.html'
 Write-Host "'all-universities.html' ended." -ForegroundColor green
-
+Write-Host "------------------------------" -ForegroundColor white
 # Update `all-colleges.html` List
 Write-Host "'all-colleges.html' started." -ForegroundColor red
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\all-colleges.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\all-colleges.html'
 Write-Host "'all-colleges.html' ended." -ForegroundColor green
-
+Write-Host "------------------------------" -ForegroundColor white
+# Update `all-universities-colleges.html` List
+Write-Host "'all-universities-colleges.html' started." -ForegroundColor red
+.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\all-universities-colleges.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\all-universities-colleges.html'
+Write-Host "'all-universities-colleges.html' ended." -ForegroundColor green
+Write-Host "------------------------------" -ForegroundColor white
 #End
-Write-Host "All Data Updated."  -ForegroundColor green
-
+Write-Host "All Data Updated."  -ForegroundColor darkgreen
+Write-Host "------------------------------" -ForegroundColor white
 $repeat = Read-Host -Prompt "Would you like to run this script again? (Y/N)"
 if ($repeat -eq "Y") {
   $escape = 0
