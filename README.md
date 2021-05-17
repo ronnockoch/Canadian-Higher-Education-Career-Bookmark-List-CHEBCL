@@ -59,7 +59,7 @@ This structured `<!DOCTYPE NETSCAPE-Bookmark-file-1>` file contains all of the i
 
 In order to import the bookmarks in the next [section](#importing-bookmarks) you will need to download the files. This can be accomplished in a few ways:
 
-1. Download all of the repository code clicking on the green [CODE](/resources/images/code-button?raw=true) button and selecting 'Download Zip'. You will need to extract it using an archive tool such a [7Zip](https://www.7-zip.org/).
+1. Download all of the repository code clicking on the green CODE ![](/resources/images/code-button?raw=true) button and selecting 'Download Zip'. You will need to extract it using an archive tool such a [7Zip](https://www.7-zip.org/).
 
 2. Navigate to the folder or `bookmark-list.html` file you would like to import, and right click on the 'RAW' button and click `Save Link As`, ensuring to keep it as a `.html` file.
 3. Navigate to the folder or `bookmark-list.html` file you would like to import, and click on the 'RAW' button. Copy and paste the text that is displayed into a text editor and save it as a `.html` file.
