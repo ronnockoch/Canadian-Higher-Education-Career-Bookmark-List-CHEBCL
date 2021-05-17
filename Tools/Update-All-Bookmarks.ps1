@@ -3,11 +3,12 @@
 This script is used to update all bookmark-list.html files in one go. This will place the files locally.
 
 #>
-
+$escape = 0
+DO {
 
 cd C:\Users\ronno\Documents\GitHub\bookmark-generator\
 # Update Universities
-Write-Host "University Data started."
+Write-Host "University Data started." -ForegroundColor red
 
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\alberta.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Alberta\University\bookmark-list.html'
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\british-columbia.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\British Columbia\University\bookmark-list.html'
@@ -23,8 +24,8 @@ Write-Host "University Data started."
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\saskatchewan.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Saskatchewan\University\bookmark-list.html'
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\University\bookmark-list.html'
 
-Write-Host "University Data ended."
-Write-Host "College Data started."
+Write-Host "University Data ended."  -ForegroundColor green
+Write-Host "College Data started." -ForegroundColor red
 
 #Update Colleges
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\alberta.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Alberta\College\bookmark-list.html'
@@ -41,17 +42,35 @@ Write-Host "College Data started."
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\Saskatchewan.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Saskatchewan\College\bookmark-list.html'
 #.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\yukon.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Yukon\College\bookmark-list.html'
 
-Write-Host "College Data ended."
+Write-Host "College Data ended." -ForegroundColor green
 
 # Update 'Other-Insitutions'
  <# #>
- Write-Host "Other Insitutions started."
+Write-Host "Other Insitutions started." -ForegroundColor red
 .\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\other-organizations.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\Other-Organizations\bookmark-list.html'
-Write-Host "Other Insitutions Data ended."
+Write-Host "Other Insitutions Data ended." -ForegroundColor green
 
+# Update `all-universities.html` List
+Write-Host "'all-universities.html' started." -ForegroundColor red
+.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Universities\all-universities.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\all-universities.html'
+Write-Host "'all-universities.html' ended." -ForegroundColor green
 
+# Update `all-colleges.html` List
+Write-Host "'all-colleges.html' started." -ForegroundColor red
+.\bookmark_generator.py 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\raw-yml\Colleges\all-colleges.yml' -o 'C:\Users\ronno\Documents\GitHub\Canadian Higher Education Career List (CHECL)\all-colleges.html'
+Write-Host "'all-colleges.html' ended." -ForegroundColor green
 
 #End
-Write-Host "All Data Updated."
+Write-Host "All Data Updated."  -ForegroundColor green
 
-Read-Host -Prompt "Press any key to continue"
+$repeat = Read-Host -Prompt "Would you like to run this script again? (Y/N)"
+if ($repeat -eq "Y") {
+  $escape = 0
+#  Write-Host "$escape is equal to Y"
+} else {
+  $escape = 1
+#  Write-Host $escape
+  #Write-Host "$escape is NOT equal to Y"
+}
+cls
+} while ($escape -ne 1)
