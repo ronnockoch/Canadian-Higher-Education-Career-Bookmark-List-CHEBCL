@@ -1,0 +1,17 @@
+---
+- folder: New Brunswick - University
+  bookmarks:
+    - name: Mount Allison University
+      url: https://www.mta.ca/Community/Administrative_departments/Human_Resources/Employment_opportunities/Non-academic/Non-academic/
+    - name: St. Thomas University
+      url: https://www.stu.ca/employment/
+    - name: University of New Brunswick
+      url: https://www.unb.ca/hr/careers/support-staff.php
+    - name: Université de Moncton
+      url: https://www.umoncton.ca/emploi/
+- folder: New Brunswick - Colleges
+  bookmarks:
+    - name: Collège communautaire du Nouveau-Brunswick
+      url: https://ccnb.ca/le-ccnb/offres-demploi.aspx
+    - name: New Brunswick Community College
+      url: https://jobs.careerbeacon.com/employer-profile/nbcc

@@ -1,0 +1,27 @@
+---
+- folder: Quebec - University
+  bookmarks:
+    - name: Bishop's University
+      url: https://working.ubishops.ca/career-opportunities/
+    - name: Concordia University
+      url: https://www.concordia.ca/hr/jobs/openings/staff-positions.html
+    - name: École de technologie supérieure
+      url: https://www.etsmtl.ca/ets/carrieres-ets
+    - name: École nationale d'administration publique
+      url: https://enap.ca/enap/147/Emplois-a-l-ENAP.enap
+    - name: Institut national de la recherche scientifique
+      url: https://inrs.ca/en/jobs/
+    - name: McGill University
+      url: https://mcgill.wd3.myworkdayjobs.com/mcgill_careers
+    - name: Université de Montréal
+      url: https://www.umontreal.ca/carrieres/
+    - name: Université de Sherbrooke
+      url: https://www.usherbrooke.ca/emplois/offres?tx_udesrechercheemplois_list[sort]=DATEDEBUTAFFICHAGE%20desc
+    - name: Université du Québec
+      url: https://www.uquebec.ca/reseau/fr/reseau-de-luq/emplois
+    - name: Université Laval
+      url: https://www.rh.ulaval.ca/emplois-personnel-professionnel
+- folder: Quebec - Colleges
+  bookmarks:
+    - name:
+      url:

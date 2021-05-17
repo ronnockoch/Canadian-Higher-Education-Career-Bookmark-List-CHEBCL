@@ -1,0 +1,25 @@
+---
+- folder: Nova Scotia - University
+  bookmarks:
+    - name: Acadia University
+      url: https://hr.acadiau.ca/employment/career-opportunities/administrativesupport.html
+    - name: Cape Breton University
+      url: https://www.cbu.ca/faculty-staff/human-resources/employment-opportunities/
+    - name: Dalhousie University
+      url: https://dal.peopleadmin.ca/postings/search?query=&query_v0_posted_at_date=&query_position_type_id%5B%5D=1&query_position_type_id%5B%5D=6&query_position_type_id%5B%5D=7&435=&commit=Search
+    - name: Mount Saint Vincent University
+      url: https://www.careerbeacon.com/en/employer-showcase/company-tnsbv8
+    - name: Nova Scotia College of Art and Design University
+      url: https://nscad.ca/careers/
+    - name: Saint Francis Xavier University
+      url: https://www2.mystfx.ca/hr/employment-opportunities
+    - name: Saint Mary's University
+      url: https://www.smu.ca/about/staff-employment-opportunities.html
+    - name: Université Sainte-Anne
+      url: https://www.usainteanne.ca/offres-d-emploi/
+    - name: University of King's College
+      url: https://ukings.ca/campus-community/employment/
+- folder: Nova Scotia - Colleges
+  bookmarks:
+    - name: Nova Scotia Community College
+      url: https://www.nscc.ca/about_nscc/jobs_at_nscc/job-postings/index.asp

@@ -1,0 +1,93 @@
+---
+- folder: Ontario - Universities
+  bookmarks:
+    - name: Algoma University
+      url: https://www.algomau.ca/careers/
+    - name: Brock University
+      url: https://brocku.wd3.myworkdayjobs.com/brocku_careers/
+    - name: Carelton Unviversity
+      url: https://carleton.njoyn.com/CL2/xweb/xweb.asp?CLID=53443&page=joblisting&lang=1
+    - name: Lakehead Unviversity
+      url: https://www.lakeheadu.ca/faculty-and-staff/departments/services/hr/employment-opportunities/administrative-staff
+    - name: Laurentian Unviversity
+      url: https://laurentian.ca/careers/administrative-vacancies
+    - name: McMaster Unviversity
+      url: https://careers.mcmaster.ca/psp/prepprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1001&customTab=MCM_STAFF_POS&IgnoreParamTempl=customTab
+    - name: Nipissing Unviversity
+      url: https://www.nipissingu.ca/employment-postings
+    - name: Ontario College of Art and Design
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/searchResults?org=OCADU&cws=37
+    - name: Queens Unviversity
+      url: https://queensu.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=Z1pQShMXCBkuJS5ALiReE311RSRWCFs4dRJEcFVccUhYIS0EExUqUEQdUTJpdGdycwkbUxFaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=74827
+    - name: Royal Millitary College
+      url: https://www.rmc-cmr.ca/en/faculty-services/employment-opportunities-royal-military-college-canada
+    - name: Ryerson Unviversity
+      url: https://www.ryerson.ca/careers/search-available-career-opportunities/
+    - name: Trent Unviversity
+      url: https://www.trentu.ca/humanresources/employment-opportunities/non-academic-positions
+    - name: University of Guelph
+      url: https://www.uoguelph.ca/hr/careers-guelph/current-opportunities
+    - name: Ontario Tech University
+      url: https://hr.ontariotechu.ca/working_at_ot/careers/career-opportunities-postings/external-career-opportunities.php
+    - name: University of Ottawa
+      url: https://uottawa.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=Z1hdQB8XCGhwanxxQiBVCCM%2FA2REcFUtBkhYUioJE2BdW0ETKDUad2p8cwkbVhJSQXEqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=27081&lang=1
+    - name: University of Toronto
+      url: https://jobs.utoronto.ca/go/Staff-Opportunities/2607517/
+    - name: Unviersity of Waterloo
+      url: https://careers-uwaterloo.icims.com/jobs/search?ss=1&hashed=-435656898
+    - name: Western University
+      url: https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&SiteId=1
+    - name: University of Windsor
+      url: https://www.uwindsor.ca/humanresources/employment-opportunities
+    - name: Wilfred Laurier
+      url: https://careers.wlu.ca/go/Staff-and-Management-Positions/505147/
+    - name: York University
+      url: https://jobs-ca.technomedia.com/yorkuniversity/
+- folder: Ontario - Colleges
+  bookmarks:
+    - name: Algonquin College
+      url: https://algonquincollege.wd3.myworkdayjobs.com/CareerOpportunities
+    - name: Cambrian College
+      url: https://gjobs.neogov.ca/careers/cambriancollege
+    - name: Canadore College
+      url: https://www.canadorecollege.ca/about/careers
+    - name: Centennial College
+      url: https://centennial.njoyn.com/cl3/xweb/Xweb.asp?tbtoken=Y1xbRBkXCBIuJS5ALiReEQZ5NychCCdIBhVEcFAvAUhZV1oFE2dZKEcTWDEfcmV1dwkbURNaS3cqWA%3D%3D&chk=ZVpaShw%3D&page=joblisting&CLID=56827
+    - name: Conestoga College
+      url: https://employment.conestogac.on.ca/
+    - name: Confederation College
+      url: https://confederationc.hua.hrsmart.com/hrsmart/ats/JobSearch/viewAll
+    - name: Durham College
+      url: https://durhamcollege.ca/about/employment-opportunities/careers
+    - name: Fanshawe College
+      url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=2&commit=Search
+    - name: Fanshawe College 2
+      url: https://jobs.fanshawec.ca/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&435=&1452%5B%5D=1&commit=Search
+    - name: Fleming College
+      url: https://flemingcollege.ca/about-fleming/careers-at-fleming
+    - name: George Brown College
+      url: https://georgebrown.csod.com/ats/careersite/search.aspx?site=1&c=georgebrown
+    - name: Georgian College
+      url: https://aa165.taleo.net/careersection/gc_external_career_site/jobsearch.ftl?lang=en&portal=8216760849
+    - name: Humber College
+      url: https://humber.taleo.net/careersection/hbr_ex/jobsearch.ftl?lang=en
+    - name: Lambton College
+      url: https://clients.njoyn.com/cl4/xweb/Xweb.asp?tbtoken=ZlhfQBhbDVB2YXxyQiYiF09NBBJRaVVYelNMISsFCXleWkEZUUISBmtwdkcYGhJQSnVlF3U%3D&chk=ZVpaShM%3D&CLID=72351&page=joblisting&lang=1
+    - name: Loyalist College
+      url: https://www.loyalistcollege.com/employment/work-at-loyalist-2/
+    - name: Mohawk College
+      url: https://talent-mohawkcollege.csod.com/ats/careersite/search.aspx?site=2&c=talent-mohawkcollege
+    - name: Niagara College
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=38&org=NIAGARACOLLEGE
+    - name: Northern College
+      url: http://www.northernc.on.ca/careers/
+    - name: St. Clair College
+      url: https://www.stclaircollege.ca/careers/current-opportunities
+    - name: St. Lawrence College
+      url: https://www.stlawrencecollege.ca/about/careers-at-slc/current-job-opportunities
+    - name: Sault College
+      url: https://www.saultcollege.ca/employment/careers-sault-college
+    - name: Seneca College
+      url: https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=42&org=SENECOLL4
+    - name: Sheridan College
+      url: https://sheridan.njoyn.com/cl3/xweb/xweb.asp?CLID=55117&page=joblisting&lang=1
